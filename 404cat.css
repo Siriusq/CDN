@@ -1,4 +1,4 @@
-@import url(https://cdn.jsdelivr.net/gh/Siriusq/CDN@2.0/404font.min.css);
+@import url(https://cdn.jsdelivr.net/gh/Siriusq/CDN@3.0/404font.min.css);
 *, *:before, *:after {
   box-sizing: border-box;
 }
@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background: url(https://i.imgur.com/76NZB7A.gif) no-repeat center center fixed;
+  background: url(https://sm.ms/image/8vIqLwjDQdaJtE1) no-repeat center center fixed;
   background-size: cover;
   font-family: "Raleway", sans-serif;
   background-color: #342643;
