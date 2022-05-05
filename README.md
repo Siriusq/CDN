@@ -10,7 +10,7 @@ jsDelivr CDN
 |404.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@1.0/404.css|
 |404.min.js | https://cdn.jsdelivr.net/gh/Siriusq/CDN@1.0/404.min.js|
 |404.min.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@1.0/404.min.css|
-|404cat.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@2.0/404cat.css|
-|404cat.min.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@3.0/404cat.min.css|
+|404cat.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@3.1/404cat.css|
+|404cat.min.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@3.1/404cat.min.css|
 |404font.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@2.0/404font.css|
 |404font.min.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@3.0/404font.min.css|
