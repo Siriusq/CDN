@@ -14,3 +14,5 @@ jsDelivr CDN
 |404cat.min.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@3.1/404cat.min.css|
 |404font.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@2.0/404font.css|
 |404font.min.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@3.0/404font.min.css|
+|crash_cheat.min.js | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/crash_cheat.min.js|
+|fireworks.min.js | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/fireworks.min.js|
