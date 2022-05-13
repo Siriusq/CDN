@@ -17,3 +17,11 @@ jsDelivr CDN
 |crash_cheat.min.js | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/crash_cheat.min.js|
 |fireworks.min.js | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/fireworks.min.js|
 |switch_language.min.js | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/switch_language.min.js|
+|cursor.min.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/cursor.min.css|
+|bg_opacity.min.css | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/bg_opacity.min.css|
+|鼠标 arrow.cur | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/cursor/arrow.cur|
+|鼠标 btn.cur | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/cursor/btn.cur|
+|鼠标 hf.cur | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/cursor/hf.cur|
+|鼠标 i.cur | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/cursor/i.cur|
+|鼠标 input.cur | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/cursor/input.cur|
+|鼠标 link.cur | https://cdn.jsdelivr.net/gh/Siriusq/CDN@latest/cursor/link.cur|

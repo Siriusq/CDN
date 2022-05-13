@@ -1,0 +1,61 @@
+/*代码行标调色*/
+figure.highlight .gutter pre {
+  background: #0d1117
+}
+
+/*背景*/
+body {
+  background: url(https://s2.loli.net/2022/05/05/rfhuq7tG9jbB1wc.jpg);/*图片路径*/
+  background-repeat: no-repeat;/*是否重复平铺*/
+  background-attachment: fixed;/*是否随着网页上下滚动而滚动，fixed为固定*/
+  background-position: 50% 50%;/*图片位置*/
+  background-size: cover;/*图片展示大小*/
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  opacity: 0.97
+}
+
+body footer>div>div {
+  color: #000000
+  /*底部文字颜色*/
+}
+
+
+/*移动端背景*/
+@media only screen and (max-width:700px) {
+  body {
+    background: url(https://s2.loli.net/2022/05/13/yusREkYhAljdc69.jpg);/*图片路径*/
+    background-repeat: no-repeat;/*是否重复平铺*/
+    background-attachment: fixed;/*是否随着网页上下滚动而滚动，fixed为固定*/
+    background-position: 50% 50%;/*图片位置*/
+    background-size: cover;/*图片展示大小*/
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    opacity: 0.97
+  }
+
+  body footer>div>div {
+    color: #000000
+      /*底部文字颜色*/
+  }
+}
+
+/* 滚动条 */
+::-webkit-scrollbar-thumb {
+  background-color: #7d7d7d;
+  border-radius: 3em;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #333333;
+  border-radius: 3em;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 15px;
+}
