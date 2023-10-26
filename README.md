@@ -1,6 +1,6 @@
 # CDN
 
-**Note: Abandoned**
+**Note: Since JSDelivr is no longer accessible in China, this method is deprecated.**
 
 jsDelivr CDN
 
