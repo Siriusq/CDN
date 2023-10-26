@@ -1,4 +1,7 @@
 # CDN
+
+**Note: Abandoned**
+
 jsDelivr CDN
 
 |File Name | CDN URL|
